@@ -6,10 +6,12 @@
 
 
 ## Wrist Fracture Classification (medical.ipynb)
-I used transfer learning using pre-trained networks on ImageNet  
+I used transfer learning using pre-trained networks on ImageNet.  
 Two experiments were done:
 - Using VGG16 as backbone
 - Using ResNet50 as backbone
 
 
-## 
+## Using LSTM network to predict Gas Consumption (consumption.ipynb)
+- Inputs: date, hour, month, temperature
+- Output: gas consumption in m3/unit
